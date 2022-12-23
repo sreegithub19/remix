@@ -26,7 +26,17 @@ npm install
 Afterwards, start the Remix development server like so:
 
 ```sh
+npm install
 npm run dev
 ```
 
 Open up [http://localhost:3000](http://localhost:3000) and you should be ready to go!
+
+Steps to run:
+
+- npm install
+- npm run dev
+
+All in one command:
+
+- git add . && git commit -m "C" && git push origin main
