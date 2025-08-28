@@ -26,7 +26,7 @@ npm install
 Afterwards, start the Remix development server like so:
 
 ```sh
-npm install
+npm install / pnpm install
 npm run dev
 ```
 
